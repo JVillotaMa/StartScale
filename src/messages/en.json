@@ -1,0 +1,101 @@
+{
+  "hero": {
+    "spotsAvailable": "Available spots: {spotsLeft}/{totalSpots}",
+    "question": "Want to know if your idea works?",
+    "mainTitle": "Get your",
+    "prototype": "Free Prototype",
+    "timeframe": "in 48 h",
+    "description": "Validate your project with a {mvpBold}—the simplest version of your idea that works—and generate your first leads without writing a single line of code.",
+    "mvpBold": "Minimum Viable Product (MVP)",
+    "contactButton": "Contact us",
+    "noCommitment": "No commitment • 24h response",
+    "step1Title": "We develop your MVP",
+    "step1Description": "In 48h you have your working product",
+    "step2Title": "We validate together",
+    "step2Description": "We test with real users and measure",
+    "step3Title": "We scale the app",
+    "step3Description": "If it works, we develop the full version"
+  },
+  "context": {
+    "painPoint1Title": "Ideas that don't take off",
+    "painPoint1Description": "You have the perfect vision but don't know where to start",
+    "painPoint2Title": "Lack of resources",
+    "painPoint2Description": "You don't have time or money to hire a complete team",
+    "painPoint3Title": "Impossible validation",
+    "painPoint3Description": "Without a real product, it's hard to convince investors or users",
+    "phase1Title": "Phase 1: Start",
+    "phase1Description": "MVP for quick validation",
+    "phase2Title": "Phase 2: Scale",
+    "phase2Description": "We scale based on feedback",
+    "phase3Title": "Phase 3: Growth",
+    "phase3Description": "Sustainable growth",
+    "mainPainTitle": "Your idea never gets executed?",
+    "mainPainDescription": "We know how frustrating it is to have a brilliant idea and see it stay only on paper. Time passes, motivation fades, and your dream remains just that... a dream.",
+    "opportunityTitle": "Imagine showing a real product",
+    "opportunityDescription": "to investors or first users before the week ends.",
+    "opportunityQuote": "Instead of explaining your idea with words, you demonstrate it with facts. Your credibility skyrockets and opportunities multiply.",
+    "methodologyTitle": "Our approach: Solid first phase",
+    "methodologyDescription": "We start with an MVP that validates your project and then we scale together. From initial idea to sustainable growth, step by step."
+  },
+  "process": {
+    "title": "My commitment to you",
+    "subtitle": "Total transparency in the process. No unrealistic promises, just serious work and results.",
+    "commitment1Title": "Your MVP in 48 hours",
+    "commitment1Description": "I develop a functional <strong>Minimum Viable Product</strong> ready to deploy. No unnecessary features, just the essentials to validate your idea quickly.",
+    "commitment2Title": "Online in a week",
+    "commitment2Description": "If you decide to move forward, your MVP will be deployed and accessible online in less than a week. Domain included if needed."
+  },
+  "cta": {
+    "title": "Have an idea you want to validate?",
+    "description": "Tell me about your project and I'll respond with an honest analysis and action plan",
+    "buttonText": "Contact me"
+  },
+  "testimonials": {
+    "title": "Our clients' opinion",
+    "subtitle": "Real projects we have developed and the results our clients obtained",
+    "ctaTitle": "Could your project be next?",
+    "ctaDescription": "Each of these projects started as a simple idea. In 48 hours, you could have your MVP ready to validate and generate your first results.",
+    "ctaButton": "I want my free MVP"
+  },
+  "contactModal": {
+    "title": "How would you prefer to contact us?",
+    "subtitle": "Choose the option that best suits you",
+    "calendlyTitle": "Schedule a meeting",
+    "calendlyDescription": "Let's talk live about your project. Schedule a 30-minute call.",
+    "calendlyBenefit": "→ Ideal for direct discussion",
+    "typeformTitle": "Complete form",
+    "typeformDescription": "Share your project details in writing for a complete evaluation.",
+    "typeformBenefit": "→ Ideal for detailed analysis",
+    "emailTitle": "Send direct email",
+    "emailDescription": "Send us an email with the specific details we need to evaluate your MVP.",
+    "emailBenefit": "→ Ideal for direct contact"
+  },
+  "typeformModal": {
+    "title": "🚀 Request Free MVP",
+    "subtitle": "Tell us your idea and let's start working together"
+  },
+  "footer": {
+    "description": "We start with your MVP in 48 hours and scale together towards success. From idea to growth, step by step.",
+    "contact": "Contact",
+    "privacyPolicy": "Privacy Policy",
+    "legalNotice": "Legal Notice",
+    "cookiePolicy": "Cookie Policy",
+    "rights": "© 2025 StartScale.org. All rights reserved.",
+    "subtitle": "Responsible MVP development • GDPR compliance • Protected data 🔒"
+  },
+  "policies": {
+    "privacyTitle": "Privacy Policy",
+    "privacySubtitle": "Complete protection of your personal data",
+    "legalTitle": "Legal Notice",
+    "legalSubtitle": "Legal information and terms of use",
+    "cookiesTitle": "Cookie Policy",
+    "cookiesSubtitle": "How we use cookies on our website",
+    "lastUpdated": "Last updated:",
+    "backToHome": "Back to home"
+  },
+  "metadata": {
+    "title": "StartScale",
+    "description": "StartScale accompanies the client in developing their product, from start to finish. GDPR compliance, protected data, transparent privacy policies.",
+    "keywords": "Free MVP, web development, startup, prototype, GDPR, privacy"
+  }
+} 

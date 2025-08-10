@@ -1,0 +1,101 @@
+{
+  "hero": {
+    "spotsAvailable": "Plazas disponibles: {spotsLeft}/{totalSpots}",
+    "question": "¿Quieres saber si tu idea funciona?",
+    "mainTitle": "Consigue tu",
+    "prototype": "Prototipo gratis",
+    "timeframe": "en 48 h",
+    "description": "Valida tu proyecto con un {mvpBold}—la versión más simple de tu idea que funciona—y genera tus primeros leads sin escribir una sola línea de código.",
+    "mvpBold": "Producto Mínimo Viable (PMV)",
+    "contactButton": "Contactar con nosotros",
+    "noCommitment": "Sin compromiso • Respuesta en 24h",
+    "step1Title": "Desarrollamos tu PMV",
+    "step1Description": "En 48h tienes tu producto funcionando",
+    "step2Title": "Validamos juntos",
+    "step2Description": "Probamos con usuarios reales y medimos",
+    "step3Title": "Escalamos la app",
+    "step3Description": "Si funciona, desarrollamos la versión completa"
+  },
+  "context": {
+    "painPoint1Title": "Ideas que no arrancan",
+    "painPoint1Description": "Tienes la visión perfecta pero no sabes por dónde empezar",
+    "painPoint2Title": "Falta de recursos",
+    "painPoint2Description": "No tienes tiempo ni dinero para contratar un equipo completo",
+    "painPoint3Title": "Validación imposible",
+    "painPoint3Description": "Sin un producto real, es difícil convencer a inversores o usuarios",
+    "phase1Title": "Fase 1: Start",
+    "phase1Description": "PMV para validación rápida",
+    "phase2Title": "Fase 2: Scale",
+    "phase2Description": "Escalamos según feedback",
+    "phase3Title": "Fase 3: Growth",
+    "phase3Description": "Crecimiento sostenible",
+    "mainPainTitle": "¿Tu idea nunca llega a ejecutarse?",
+    "mainPainDescription": "Sabemos lo frustrante que es tener una idea brillante y verla quedarse solo en papel. El tiempo pasa, la motivación se desvanece, y tu sueño sigue siendo solo eso... un sueño.",
+    "opportunityTitle": "Imagínate mostrar un producto real",
+    "opportunityDescription": "ante inversores o primeros usuarios antes de que termine la semana.",
+    "opportunityQuote": "En lugar de explicar tu idea con palabras, la demuestras con hechos. Tu credibilidad se dispara y las oportunidades se multiplican.",
+    "methodologyTitle": "Nuestro enfoque: Primera fase sólida",
+    "methodologyDescription": "Empezamos con un PMV que valida tu proyecto y luego escalamos juntos. De la idea inicial al crecimiento sostenible, paso a paso."
+  },
+  "process": {
+    "title": "Mi compromiso contigo",
+    "subtitle": "Transparencia total en el proceso. Sin promesas irreales, solo trabajo serio y resultados.",
+    "commitment1Title": "Tu PMV en 48 horas",
+    "commitment1Description": "Desarrollo un <strong>Producto Mínimo Viable</strong> funcional y listo para desplegarse. Sin funcionalidades innecesarias, solo lo esencial para validar tu idea rápidamente.",
+    "commitment2Title": "Online en una semana",
+    "commitment2Description": "Si decides seguir adelante, tu PMV estará desplegado y accesible online en menos de una semana. Dominio incluido si es necesario."
+  },
+  "cta": {
+    "title": "¿Tienes una idea que quieres validar?",
+    "description": "Cuéntame tu proyecto y te responderé con un análisis honesto y un plan de acción",
+    "buttonText": "Contactar conmigo"
+  },
+  "testimonials": {
+    "title": "La opinión de nuestros clientes",
+    "subtitle": "Proyectos reales que hemos desarrollado y los resultados que obtuvieron nuestros clientes",
+    "ctaTitle": "¿Tu proyecto podría ser el siguiente?",
+    "ctaDescription": "Cada uno de estos proyectos empezó como una simple idea. En 48 horas, podrías tener tu PMV listo para validar y generar tus primeros resultados.",
+    "ctaButton": "Quiero mi PMV gratis"
+  },
+  "contactModal": {
+    "title": "¿Cómo prefieres contactar?",
+    "subtitle": "Elige la opción que mejor se adapte a ti",
+    "calendlyTitle": "Agendar una reunión",
+    "calendlyDescription": "Hablemos en vivo sobre tu proyecto. Agenda una llamada de 30 minutos.",
+    "calendlyBenefit": "→ Ideal para discusión directa",
+    "typeformTitle": "Completar formulario",
+    "typeformDescription": "Compártenos los detalles de tu proyecto por escrito para una evaluación completa.",
+    "typeformBenefit": "→ Ideal para análisis detallado",
+    "emailTitle": "Enviar email directo",
+    "emailDescription": "Envíanos un email con los detalles específicos que necesitamos para evaluar tu PMV.",
+    "emailBenefit": "→ Ideal para contacto directo"
+  },
+  "typeformModal": {
+    "title": "🚀 Solicitar PMV Gratuito",
+    "subtitle": "Cuéntanos tu idea y empecemos a trabajar juntos"
+  },
+  "footer": {
+    "description": "Empezamos con tu PMV en 48 horas y escalamos juntos hacia el éxito. De la idea al crecimiento, paso a paso.",
+    "contact": "Contacto",
+    "privacyPolicy": "Política de Privacidad",
+    "legalNotice": "Aviso Legal",
+    "cookiePolicy": "Política de Cookies",
+    "rights": "© 2025 StartScale.org. Todos los derechos reservados.",
+    "subtitle": "Desarrollo responsable de MVPs • Cumplimiento RGPD • Datos protegidos 🔒"
+  },
+  "policies": {
+    "privacyTitle": "Política de Privacidad",
+    "privacySubtitle": "Protección total de tus datos personales",
+    "legalTitle": "Aviso Legal",
+    "legalSubtitle": "Información legal y términos de uso",
+    "cookiesTitle": "Política de Cookies",
+    "cookiesSubtitle": "Cómo utilizamos las cookies en nuestro sitio web",
+    "lastUpdated": "Última actualización:",
+    "backToHome": "Volver al inicio"
+  },
+  "metadata": {
+    "title": "StartScale",
+    "description": "StartScale acompaña al cliente en el desarrollo de su producto, desde el inicio hasta el final. Cumplimiento RGPD, datos protegidos, políticas de privacidad transparentes.",
+    "keywords": "MVP gratuito, desarrollo web, startup, prototipo, RGPD, privacidad"
+  }
+} 
